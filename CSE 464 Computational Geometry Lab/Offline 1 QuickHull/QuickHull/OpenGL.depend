@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1488659858 source:c:\users\sonjoy\desktop\opengl\opengl\opengl_codeblocks\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\sonjoy\desktop\opengl\opengl\opengl_codeblocks\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1488800746 source:c:\users\sonjoy\desktop\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\sonjoy\desktop\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1488803382 source:c:\users\sonjoy\desktop\offline 1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\sonjoy\desktop\offline 1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1488917328 source:c:\users\sonjoy\desktop\graphic offline 1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\sonjoy\desktop\graphic offline 1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1489137644 source:c:\users\sonjoy\desktop\work\graphic offline 1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\sonjoy\desktop\work\graphic offline 1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1489056341 source:c:\users\sonjoy\desktop\work\graphic offline 1\controllablecamera.cpp
+
+1489338317 source:c:\users\sonjoy\desktop\graphic offline 1_v4\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\sonjoy\desktop\graphic offline 1_v4\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1489340340 source:c:\users\sonjoy\desktop\grometrey_qucick_hull\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\sonjoy\desktop\grometrey_qucick_hull\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1489680949 source:c:\users\sonjoy\desktop\grometrey_quick_hull\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<glut.h>
+	<vector>
+
+1392007564 c:\users\sonjoy\desktop\grometrey_quick_hull\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1489680949 source:c:\users\sonjoy\desktop\1205079\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<glut.h>
+	<vector>
+
+1392007564 c:\users\sonjoy\desktop\1205079\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1489680949 source:f:\buet academic\l4t2\cse 464 computational geometry lab\offline 1 quickhull\quickhull\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<glut.h>
+	<vector>
+
+1392007564 f:\buet academic\l4t2\cse 464 computational geometry lab\offline 1 quickhull\quickhull\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

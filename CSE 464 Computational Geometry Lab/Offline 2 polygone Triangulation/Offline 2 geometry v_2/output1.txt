@@ -1,0 +1,8 @@
+x=0.00 y=3.00 Start
+x=-1.00 y=2.00 split
+x=3.00 y=0.00 end
+x=2.00 y=-1.00 merge
+edge id=1
+edge id=3
+edge id=0
+edge id=2

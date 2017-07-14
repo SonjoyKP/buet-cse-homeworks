@@ -1,0 +1,8 @@
+x=2.00 y=5.00 Start
+x=-2.00 y=4.00 regular
+x=3.00 y=3.00 Start
+x=1.00 y=1.00 merge
+x=2.00 y=-1.00 split
+x=-3.00 y=-6.00 end
+x=4.00 y=-6.00 regular
+x=-1.00 y=-7.00 end

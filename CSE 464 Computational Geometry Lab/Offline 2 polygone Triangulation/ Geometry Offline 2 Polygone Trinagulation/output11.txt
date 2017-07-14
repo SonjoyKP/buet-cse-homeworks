@@ -1,0 +1,20 @@
+x=6.00 y=10.00 Start
+x=2.00 y=5.00 Start
+x=9.00 y=5.00 Start
+x=4.00 y=3.00 merge
+x=7.00 y=3.00 merge
+x=4.00 y=-3.00 split
+x=7.00 y=-3.00 split
+x=2.00 y=-5.00 end
+x=9.00 y=-5.00 end
+x=6.00 y=-10.00 end
+Handeling Start Vertex
+edge id=7 ax=6.00 ay=10.00 bx=4.00 by=3.00
+Handeling Start Vertex
+edge id=9 ax=2.00 ay=5.00 bx=2.00 by=-5.00
+edge id=7 ax=6.00 ay=10.00 bx=4.00 by=3.00
+Handeling Start Vertex
+edge id=5 ax=9.00 ay=5.00 bx=7.00 by=3.00
+edge id=9 ax=2.00 ay=5.00 bx=2.00 by=-5.00
+edge id=7 ax=6.00 ay=10.00 bx=4.00 by=3.00
+Handeling merge Vertex
