@@ -1,0 +1,49 @@
+Exact Solution : 11.580
+Subset Taken : 1 2 4 
+Approximated Solution : 22.650
+Subset Taken : 1 2 3 4 5 
+Ideal ratio : 2
+Our ratio : 1.956
+
+Exact Solution : 100.000
+Subset Taken : 1 5 7 
+Approximated Solution : 100.000
+Subset Taken : 1 4 5 
+Ideal ratio : 4
+Our ratio : 1.000
+
+Exact Solution : 2.600
+Subset Taken : 2 4 5 
+Approximated Solution : 5.000
+Subset Taken : 1 2 3 4 5 
+Ideal ratio : 2
+Our ratio : 1.923
+
+Exact Solution : 2.600
+Subset Taken : 1 
+Approximated Solution : 2.600
+Subset Taken : 1 
+Ideal ratio : 3
+Our ratio : 1.000
+
+Exact Solution : 5.000
+Subset Taken : 1 4 5 6 7 
+Approximated Solution : 5.000
+Subset Taken : 1 4 5 6 7 
+Ideal ratio : 3
+Our ratio : 1.000
+
+Exact Solution : 3.000
+Subset Taken : 2 4 7 
+Approximated Solution : 5.000
+Subset Taken : 1 2 4 5 6 
+Ideal ratio : 3
+Our ratio : 1.667
+
+Exact Solution : 11.580
+Subset Taken : 1 2 4 
+Approximated Solution : 23.080
+Subset Taken : 1 2 3 4 5 
+Ideal ratio : 2
+Our ratio : 1.993
+
